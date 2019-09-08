@@ -1,0 +1,11 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    font-size: 60px;
+    font-weight: 500;
+}
